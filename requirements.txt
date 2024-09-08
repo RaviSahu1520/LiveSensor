@@ -1,0 +1,3 @@
+pymongo==4.2.0
+
+-e . #editable mode used for automatic run setup.py file and run packages from that
